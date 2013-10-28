@@ -21,6 +21,7 @@
 		CEE698B2181E7D9800E5F3A1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEE69894181E7D9700E5F3A1 /* UIKit.framework */; };
 		CEE698BA181E7D9800E5F3A1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CEE698B8181E7D9800E5F3A1 /* InfoPlist.strings */; };
 		CEE698BC181E7D9800E5F3A1 /* AirPlayButtonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CEE698BB181E7D9800E5F3A1 /* AirPlayButtonTests.m */; };
+		CEE698C6181E7E6100E5F3A1 /* Airplay@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE698C5181E7E6100E5F3A1 /* Airplay@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		CEE698B7181E7D9800E5F3A1 /* AirPlayButtonTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AirPlayButtonTests-Info.plist"; sourceTree = "<group>"; };
 		CEE698B9181E7D9800E5F3A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CEE698BB181E7D9800E5F3A1 /* AirPlayButtonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AirPlayButtonTests.m; sourceTree = "<group>"; };
+		CEE698C5181E7E6100E5F3A1 /* Airplay@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Airplay@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		CEE69896181E7D9700E5F3A1 /* AirPlayButton */ = {
 			isa = PBXGroup;
 			children = (
+				CEE698C5181E7E6100E5F3A1 /* Airplay@2x.png */,
 				CEE6989F181E7D9700E5F3A1 /* AppDelegate.h */,
 				CEE698A0181E7D9700E5F3A1 /* AppDelegate.m */,
 				CEE698A2181E7D9700E5F3A1 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEE698A9181E7D9700E5F3A1 /* Images.xcassets in Resources */,
+				CEE698C6181E7E6100E5F3A1 /* Airplay@2x.png in Resources */,
 				CEE6989B181E7D9700E5F3A1 /* InfoPlist.strings in Resources */,
 				CEE698A4181E7D9700E5F3A1 /* Main.storyboard in Resources */,
 			);
